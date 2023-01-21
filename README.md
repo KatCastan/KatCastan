@@ -1,7 +1,9 @@
-👋 Hi, I’m Kat Castan! I'm a junior student studying computer science at California State University Long Beach!
+👋 Hi, I’m Kat Castan! I'm a junior student studying computer science at California State University Long Beach.
+
+🌱 I’m currently learning C and UNIX
 
 <!---
-- 🌱 I’m currently learning Python, Verilog, SQL, algorithms, database fundamentals, computer architecture
+- 
 - 👀 I’m interested in 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
