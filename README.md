@@ -1,4 +1,4 @@
-👋 Hi, I’m Kat Castan! I'm a junior student studying computer science at California State University Long Beach.
+👋 Hi, I’m Kat Castan! I'm a senior student studying computer science at California State University Long Beach.
 
 <!---
 - 🌱 I’m currently learning C and UNIX
